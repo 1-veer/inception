@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!conf/
+!conf/60-inception.cnf
+!tools/
+!tools/entrypoint.sh

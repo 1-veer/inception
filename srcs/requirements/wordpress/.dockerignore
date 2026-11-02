@@ -1,0 +1,6 @@
+*
+!Dockerfile
+!conf/
+!conf/zz-inception.conf
+!tools/
+!tools/entrypoint.sh
